@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Wahaj Rashid!
 
 🎓 MSc in Cybersecurity | 💻 Full-Stack Developer | 🛡️ Cloud & Infrastructure Security Enthusiast  
-📍 Dublin, Ireland | ✉️ wahajrashid24@gmail.com | 🌐 [Portfolio](https://wahaj.netlify.app) | [LinkedIn](https://www.linkedin.com/in/wahajrashid)
+📍 Dublin, Ireland | ✉️ wahajrashid24@gmail.com | 🌐 [Portfolio](https://wahajsportfolio.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/wahajrashid)
 
 ---
 
