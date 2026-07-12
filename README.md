@@ -49,8 +49,7 @@ const wahaj: Developer = {
 Real-time restaurant POS with role-based auth, live kitchen display, Stripe payments with server-side verification, and an AI assistant powered by the Google Gemini API grounded in real sales data. Centralised typed API layer with request de-duplication and 24+ Vitest tests.
 
 <a href="https://github.com/WahajRashid1020/POS-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WahajRashid1020&repo=POS-System&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc" alt="QuickServe POS" />
-</a>
+ </a>
 
 | Layer | Technologies |
 |-------|-------------|
@@ -67,8 +66,7 @@ Real-time restaurant POS with role-based auth, live kitchen display, Stripe paym
 Invoicing platform with Firebase Auth (Email/Google/GitHub), React Query across 40+ REST endpoints, client-side PDF generation, and digital signature capture, all through a centralised HTTP layer with token handling and error mapping.
 
 <a href="https://github.com/WahajRashid1020/invoice_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WahajRashid1020&repo=invoice_app&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc" alt="Invoice Builder" />
-</a>
+ </a>
 
 | Layer | Technologies |
 |-------|-------------|
@@ -84,8 +82,7 @@ Invoicing platform with Firebase Auth (Email/Google/GitHub), React Query across 
 Customer-facing quoting platform integrating three independently-versioned Flask microservices behind a React frontend, with multi-step quoting wizards, Stripe payments, and interactive Google Maps route rendering. Reduced API latency by ~30%.
 
 <a href="https://github.com/WahajRashid1020/cdl1000_web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WahajRashid1020&repo=cdl1000_web&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc" alt="CDL1000" />
-</a>
+ </a>
 
 | Layer | Technologies |
 |-------|-------------|
