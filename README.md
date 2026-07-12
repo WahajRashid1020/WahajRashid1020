@@ -1,5 +1,8 @@
 <!-- Header Banner -->
- 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Wahaj%20Rashid&fontColor=0a0a0a&fontSize=60&animation=twinkling&desc=Full-Stack%20%26%20AI%20Product%20Engineer&descSize=20&descAlignY=62" alt="Wahaj Rashid" />
+</p>
+
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -46,10 +49,10 @@ const wahaj: Developer = {
 ## 🚀 Featured Projects
 
 ### 🍔 QuickServe POS — Full-Stack AI-Enhanced Point of Sale
+
 Real-time restaurant POS with role-based auth, live kitchen display, Stripe payments with server-side verification, and an AI assistant powered by the Google Gemini API grounded in real sales data. Centralised typed API layer with request de-duplication and 24+ Vitest tests.
 
-<a href="https://github.com/WahajRashid1020/POS-System">
- </a>
+[![QuickServe POS](https://github-readme-stats.vercel.app/api/pin/?username=WahajRashid1020&repo=POS-System&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc)](https://github.com/WahajRashid1020/POS-System)
 
 | Layer | Technologies |
 |-------|-------------|
@@ -58,15 +61,15 @@ Real-time restaurant POS with role-based auth, live kitchen display, Stripe paym
 | Integrations | NextAuth + Google OAuth, Stripe, Google Gemini API |
 | Testing | Vitest, React Testing Library |
 
-🔗 **[Live Demo](https://pos-system-k3ms.vercel.app/login)**
+**🔗 [Live Demo](https://pos-system-k3ms.vercel.app/login) &nbsp;•&nbsp; [View Code](https://github.com/WahajRashid1020/POS-System)**
 
 ---
 
 ### 🧾 Invoice Builder — Full-Stack SaaS Platform
+
 Invoicing platform with Firebase Auth (Email/Google/GitHub), React Query across 40+ REST endpoints, client-side PDF generation, and digital signature capture, all through a centralised HTTP layer with token handling and error mapping.
 
-<a href="https://github.com/WahajRashid1020/invoice_app">
- Code</a>
+[![Invoice Builder](https://github-readme-stats.vercel.app/api/pin/?username=WahajRashid1020&repo=invoice_app&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc)](https://github.com/WahajRashid1020/invoice_app)
 
 | Layer | Technologies |
 |-------|-------------|
@@ -74,21 +77,23 @@ Invoicing platform with Firebase Auth (Email/Google/GitHub), React Query across 
 | Auth & State | Firebase Auth, React Query, Context API |
 | Features | jsPDF + html2canvas, signature capture, CRUD |
 
-🔗 **[Live Demo](https://invoicebuilder.netlify.app/invoices)**
+**🔗 [Live Demo](https://invoicebuilder.netlify.app/invoices) &nbsp;•&nbsp; [View Code](https://github.com/WahajRashid1020/invoice_app)**
 
 ---
 
 ### 🚚 CDL1000 — Freight & Logistics Platform
+
 Customer-facing quoting platform integrating three independently-versioned Flask microservices behind a React frontend, with multi-step quoting wizards, Stripe payments, and interactive Google Maps route rendering. Reduced API latency by ~30%.
 
-<a href="https://github.com/WahajRashid1020/cdl1000_web">
- </a>
+[![CDL1000](https://github-readme-stats.vercel.app/api/pin/?username=WahajRashid1020&repo=cdl1000_web&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc)](https://github.com/WahajRashid1020/cdl1000_web)
 
 | Layer | Technologies |
 |-------|-------------|
 | Frontend | React, Next.js, JavaScript, Redux |
 | Backend | Python (Flask), gRPC, three cloud microservices |
 | Integrations | Stripe, Google Maps API, Firebase Auth |
+
+**🔗 [View Code](https://github.com/WahajRashid1020/cdl1000_web)**
 
 ---
 
@@ -128,7 +133,7 @@ Customer-facing quoting platform integrating three independently-versioned Flask
 
 <!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WahajRashid1020&theme=react-dark&bg_color=0a0a0a&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WahajRashid1020&theme=react-dark&hide_border=true" alt="activity graph" />
 </p>
 
 ---
