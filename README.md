@@ -92,7 +92,7 @@ Customer-facing quoting platform integrating three independently-versioned Flask
 | Backend | Python (Flask), gRPC, three cloud microservices |
 | Integrations | Stripe, Google Maps API, Firebase Auth |
 
-**🔗 [View Code](https://github.com/WahajRashid1020/cdl1000_web)**
+**🔗 [Live Demo](https://cdl1000-web.vercel.app/) &nbsp;•&nbsp;  [View Code](https://github.com/WahajRashid1020/cdl1000_web)**
 
 ---
 
