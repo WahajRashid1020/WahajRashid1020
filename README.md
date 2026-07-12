@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Wahaj%20Rashid&fontColor=0a0a0a&fontSize=60&animation=twinkling&desc=Full-Stack%20%26%20AI%20Product%20Engineer&descSize=20&descAlignY=62" alt="Wahaj Rashid" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wahaj%20Rashid&fontSize=60&fontColor=ffffff&animation=twinkling" alt="header" width="100%" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+TypeScript+%2B+React+%2B+Node;Building+AI-native+products+with+LLM+APIs;Cloud+%26+Infrastructure+Security+Enthusiast;MSc+in+Cybersecurity+%7C+Dublin%2C+Ireland" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines= Full-Stack+Developer+%7C+TypeScript+%2B+React+%2B+Node;Building+AI-native+products+with+LLM+APIs;Cloud+%26+Infrastructure+Security+Enthusiast;MSc+in+Cybersecurity+%7C+Dublin%2C+Ireland" alt="Typing SVG" />
   </a>
 </p>
 
