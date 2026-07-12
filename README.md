@@ -113,27 +113,6 @@ Customer-facing quoting platform integrating three independently-versioned Flask
 **Dev Tools**  
 ![](https://skillicons.dev/icons?i=git,github,githubactions,jest,vscode,postman)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahajRashid1020&show_icons=true&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&border_color=7dd3fc" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahajRashid1020&layout=compact&theme=nord&title_color=7dd3fc&text_color=c9d1d9&border_color=7dd3fc" alt="top langs" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=WahajRashid1020&theme=nord&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&border=7dd3fc" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WahajRashid1020&theme=nord&no-frame=true&no-bg=true&column=7" alt="trophies" />
-</p>
-
-<!-- Contribution Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WahajRashid1020&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
 
 ---
 
