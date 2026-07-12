@@ -66,7 +66,7 @@ Real-time restaurant POS with role-based auth, live kitchen display, Stripe paym
 Invoicing platform with Firebase Auth (Email/Google/GitHub), React Query across 40+ REST endpoints, client-side PDF generation, and digital signature capture, all through a centralised HTTP layer with token handling and error mapping.
 
 <a href="https://github.com/WahajRashid1020/invoice_app">
- </a>
+ Code</a>
 
 | Layer | Technologies |
 |-------|-------------|
