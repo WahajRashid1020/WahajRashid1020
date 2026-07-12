@@ -1,8 +1,5 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Wahaj%20Rashid&fontColor=0a0a0a&fontSize=60&animation=twinkling&desc=Full-Stack%20%26%20AI%20Product%20Engineer&descSize=20&descAlignY=62" alt="header" />
-</p>
-
+ 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
